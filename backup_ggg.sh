@@ -16,6 +16,7 @@ rm -rf ggg/rcp/decVid/cpp/srv/cam.h264
 rm -rf ggg/rcp/decVid/cpp/srv/decVid_server
 rm -rf ggg/rcp/decVid/cpp/srv/decVid_server.o
 rm -rf ggg/rcp/decVid/cpp/srv/*.pb.h
+rm -rf ggg/rcp/decVid/cpp/srv/*.pb.o
 rm -rf ggg/rcp/decVid/decVid.pb.go
 rm -rf ggg/rcp/decVid/tags
 rm -rf ggg/rcp/webCfg/clt/client

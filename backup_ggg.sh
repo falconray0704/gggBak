@@ -21,6 +21,16 @@ rm -rf ggg/rcp/decVid/cpp/srv/*.pb.o
 rm -rf ggg/rcp/decVid/decVid.pb.go
 rm -rf ggg/rcp/tags
 rm -rf ggg/rcp/decVid/tags
+rm -rf ggg/rcp/pcClt/tags
+rm -rf ggg/rcp/pcClt/cpp/srv/cam.h264
+rm -rf ggg/rcp/pcClt/cpp/srv/pcClt_server
+rm -rf ggg/rcp/pcClt/cpp/srv/pcClt_server.o
+rm -rf ggg/rcp/pcClt/cpp/srv/*.pb.h
+rm -rf ggg/rcp/pcClt/cpp/srv/*.pb.o
+rm -rf ggg/rcp/pcClt/clt/client
+rm -rf ggg/rcp/pcClt/clt/clientArm
+rm -rf ggg/rcp/pcClt/clt/client32.exe
+rm -rf ggg/rcp/pcClt/clt/client64.exe
 rm -rf ggg/rcp/webCfg/clt/client
 rm -rf ggg/rcp/webCfg/clt/clientArm
 rm -rf ggg/rcp/webCfg/clt/client32.exe

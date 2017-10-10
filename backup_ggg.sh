@@ -85,11 +85,12 @@ rm -rf ggg/rcp/ivasAlarm/srv/ivasAlarmServer32.exe
 rm -rf ggg/rcp/ivasAlarm/srv/ivasAlarmServer64.exe
 rm -rf ggg/rcp/ivasAlarm/ivasAlarm.pb.go
 
-rm -rf ggg/rcp/webSrv/clt/client
-rm -rf ggg/rcp/webSrv/clt/clientArm
-rm -rf ggg/rcp/webSrv/clt/client32.exe
-rm -rf ggg/rcp/webSrv/clt/client64.exe
-rm -rf ggg/rcp/webSrv/srv/server
+rm -rf ggg/rcp/webSrv/clt/webSrvClient
+rm -rf ggg/rcp/webSrv/clt/webSrvClient32.exe
+rm -rf ggg/rcp/webSrv/clt/webSrvClient64.exe
+rm -rf ggg/rcp/webSrv/srv/webSrvServer
+rm -rf ggg/rcp/webSrv/srv/webSrvServer32.exe
+rm -rf ggg/rcp/webSrv/srv/webSrvServer64.exe
 rm -rf ggg/rcp/webSrv/webSrv.pb.go
 
 

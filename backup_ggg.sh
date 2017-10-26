@@ -4,6 +4,7 @@ cd ../
 rm -rf ggg
 cp -a /md/gows/src/github.com/falconray0704/ggg ./
 rm -rf ./ggg/bin
+rm -rf ./ggg/rtsp2rtmp/muxers/h264parser/bits/.git
 
 # demo
 rm -rf ggg/rtsp2rtmp/demos/logs

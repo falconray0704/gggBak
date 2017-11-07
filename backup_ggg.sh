@@ -3,7 +3,9 @@
 cd ../
 rm -rf ggg
 cp -a /md/gows/src/github.com/falconray0704/ggg ./
+rm -rf ./.bash_history
 rm -rf ./ggg/bin
+rm -rf ./ggg/ReleaseBin
 rm -rf ./ggg/rtsp2rtmp/muxers/h264parser/bits/.git
 
 # demo
@@ -86,13 +88,17 @@ rm -rf ggg/rcp/ivasAlarm/srv/ivasAlarmServer32.exe
 rm -rf ggg/rcp/ivasAlarm/srv/ivasAlarmServer64.exe
 rm -rf ggg/rcp/ivasAlarm/ivasAlarm.pb.go
 
+# webSrv
 rm -rf ggg/rcp/webSrv/clt/webSrvClient
+rm -rf ggg/rcp/webSrv/clt/webSrvClientArm
 rm -rf ggg/rcp/webSrv/clt/webSrvClient32.exe
 rm -rf ggg/rcp/webSrv/clt/webSrvClient64.exe
 rm -rf ggg/rcp/webSrv/srv/webSrvServer
+rm -rf ggg/rcp/webSrv/srv/webSrvServerArm
 rm -rf ggg/rcp/webSrv/srv/webSrvServer32.exe
 rm -rf ggg/rcp/webSrv/srv/webSrvServer64.exe
 rm -rf ggg/rcp/webSrv/webSrv.pb.go
+
 
 
 

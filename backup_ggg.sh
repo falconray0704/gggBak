@@ -24,6 +24,10 @@ rm -rf ggg/rtsp2rtmp/demos/decVid_rtmp_player/decVid_rtmp_player64.exe
 rm -rf ggg/rtsp2rtmp/demos/decVid_rtmp_player/decVid.h264
 rm -rf ggg/rtsp2rtmp/muxers/h264parser/bits/README.md
 
+# rtspTester
+rm -rf ggg/rtsp2rtmp/rtspTester/rtspTesterArm
+rm -rf ggg/rtsp2rtmp/rtspTester/rtspTester
+
 # decVid
 rm -rf ggg/rcp/decVid/clt/client
 rm -rf ggg/rcp/decVid/cpp/srv/cam.h264
